@@ -1,3 +1,3 @@
-def my_collect(list)
+def my_collect(array)
 end
 
